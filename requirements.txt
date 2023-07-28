@@ -1,0 +1,4 @@
+scikit-image
+aircv
+pytesseract
+opencv-python
